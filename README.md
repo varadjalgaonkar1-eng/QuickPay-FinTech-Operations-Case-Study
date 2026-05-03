@@ -18,7 +18,7 @@
 ## Short Run Instructions
 
 ### 1. Data Setup
-Ensure all raw files (`transactions_raw.csv`, `ledger.csv`, `gateway.csv`, etc.) are placed in the `01_data/raw/` folder.
+ All raw files (`transactions_raw.csv`, `ledger.csv`, `gateway.csv`, etc.) are placed in the `01_data/raw/` folder.
 
 ### 2. Python Pipeline
 * Navigate to the `04_python/` directory.

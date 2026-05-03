@@ -1,0 +1,12 @@
+merchant_name,Sum of high_risk_flag,Average of risk_score
+Alpha  Mart,2,76.66666667
+Alpha Mart,1,57.66666667
+Alpha Mart ,0,58
+Beta  Stores,2,67.83333333
+Beta Stores,1,70
+Beta Stores ,2,72
+City Pharma,0,40
+Delta Travels,0,45.66666667
+Delta Travels ,1,58
+Eco Home,1,54.5
+Grand Total,10,61.3

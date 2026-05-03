@@ -1,0 +1,31 @@
+transaction_id,transaction_date,merchant_name,raw_amount,currency,status,status,risk_score,gateway_region,user_id,payment_method,amount_usd,high_value_flag,high_risk_flag
+T001,2026-01-03,Alpha Mart ,420000,INR,Captured ,Captured,62,APAC,U001,UPI,19330500000,1,0
+T002,2026-01-03,Alpha Mart,210000,INR,Captured ,Captured,55,UNKNOWN,U002,Card,9665250000,0,0
+T003,2026-01-03,Beta Stores ,510000,INR, Captured,Captured,71,APAC,U003,NetBanking,23472750000,1,1
+T004,2026-02-03,Beta  Stores,160000,INR, Failed ,Failed,68,APAC,U004,Card,7364000000,1,0
+T005,2026-02-03,Alpha Mart,390000,INR, Captured,Captured,58,UNKNOWN,U001,UPI,17949750000,0,0
+T006,2026-02-03,Beta  Stores,275000,INR,Captured ,Captured,64,UNKNOWN,U005,Wallet,12656875000,0,0
+T007,2026-02-03,Alpha  Mart,450000,INR,Chargeback,Chargeback,83,APAC,U006,Card,20711250000,1,1
+T008,2026-03-03,Beta Stores ,340000,INR,Captured ,Captured,59,UNKNOWN,U007,UPI,15648500000,0,0
+T009,2026-03-03,Alpha Mart,125000,INR,Captured,Captured,46,APAC,U002,Wallet,5753125000,1,0
+T010,2026-03-03,Beta Stores,610000,INR,Captured,Captured,77,UNKNOWN,U003,Card,28075250000,0,1
+T011,2026-03-03,Alpha  Mart,195000,INR,Failed,Failed,80,UNKNOWN,U008,UPI,8974875000,0,1
+T012,2026-04-03,Beta  Stores,250000,INR,Captured ,Captured,61,APAC,U009,Card,11506250000,1,0
+T013,2026-04-03,Alpha Mart ,310000,INR,Captured ,Captured,54,APAC,U010,UPI,14267750000,1,0
+T014,2026-04-03,Beta  Stores,470000,INR,Captured ,Captured,73,APAC,U001,NetBanking,21631750000,1,1
+T015,2026-04-03,Alpha Mart,130000,INR,Captured,Captured,52,UNKNOWN,U002,Card,5983250000,0,0
+T016,2026-05-03,Beta  Stores,220000,INR,Failed,Failed,69,UNKNOWN,U008,Card,10125500000,0,0
+T017,2026-05-03,Beta  Stores,180000,INR,Failed,Failed,72,APAC,U008,Card,8284500000,1,1
+T018,2026-05-03,Beta Stores ,145000,INR, Chargeback ,Chargeback,86,APAC,U008,UPI,6673625000,1,1
+T019,2026-05-03,Alpha  Mart,260000,INR,Failed,Failed,67,APAC,U008,Wallet,11966500000,1,0
+T020,2026-05-03,Alpha Mart,520000,INR,Captured ,Captured,75,APAC,U005,UPI,23933000000,1,1
+T021,2026-06-03,Beta Stores,330000,INR,Captured ,Captured,63,UNKNOWN,U006,Card,15188250000,0,0
+T022,2026-06-03,Alpha Mart,410000,INR,Captured ,Captured,60,APAC,U007,UPI,18870250000,1,0
+T023,2026-01-03,City Pharma,5200,EUR,Captured ,Captured,42,EU,U003,Card,239330000,1,0
+T024,2026-02-03,Eco Home,6100,EUR, Chargeback ,Chargeback,65,EU,U004,Card,280752500,1,1
+T025,2026-03-03,City Pharma,2800,EUR,Captured ,Captured,38,EU,U005,Wallet,128870000,1,0
+T026,2026-05-03,Eco Home,3300,EUR,Failed,Failed,44,EU,U006,NetBanking,151882500,1,0
+T027,2026-01-03,Delta Travels,7200,USD,Captured ,Captured,49,US,U007,Card,7200,1,0
+T028,2026-02-03,Delta Travels,3100,USD, Captured,Captured,41,US,U008,Card,3100,0,0
+T029,2026-04-03,Delta Travels ,2500,USD, Chargeback ,Chargeback,58,US,U009,Wallet,2500,0,1
+T030,2026-06-03,Delta Travels,1800,USD,Failed,Failed,47,US,U010,UPI,1800,0,0
